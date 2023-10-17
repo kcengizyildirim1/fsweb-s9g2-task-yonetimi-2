@@ -44,14 +44,14 @@
 }
 
 .task h3 {
-  font-size: 18px;
-  color: #c8781a;
+  /* font-size: 18px;
+  color: #c8781a; */
 }
 
 .task p {
-  padding: 0.5rem 0 0.75rem;
+  /* padding: 0.5rem 0 0.75rem;
   font-size: 14px;
-  color: #444;
+  color: #444; */
 }
 
 .task button {
@@ -87,10 +87,10 @@
 }
 
 .normal {
-  background-color: #ffd9d4;
+  background-color: #d4d7ff;
 }
 .urgent {
-  background-color: #d4d7ff;
+  background-color: #ffd9d4;
 }
 /* TASK */
 
